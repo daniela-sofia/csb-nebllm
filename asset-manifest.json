@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-nebllm/static/js/main.1e77796e.chunk.js",
+    "main.js.map": "https://.github.io/csb-nebllm/static/js/main.1e77796e.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-nebllm/static/js/runtime-main.4b17ac9b.js",
+    "runtime-main.js.map": "https://.github.io/csb-nebllm/static/js/runtime-main.4b17ac9b.js.map",
+    "static/js/2.266767ca.chunk.js": "https://.github.io/csb-nebllm/static/js/2.266767ca.chunk.js",
+    "static/js/2.266767ca.chunk.js.map": "https://.github.io/csb-nebllm/static/js/2.266767ca.chunk.js.map",
+    "index.html": "https://.github.io/csb-nebllm/index.html",
+    "static/js/2.266767ca.chunk.js.LICENSE.txt": "https://.github.io/csb-nebllm/static/js/2.266767ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b17ac9b.js",
+    "static/js/2.266767ca.chunk.js",
+    "static/js/main.1e77796e.chunk.js"
+  ]
+}
